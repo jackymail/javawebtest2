@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+/private/var/root/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2185123035.index
+/myjavawebapp/src
+/private/var/root/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1329515677.index
+/myfourth/src
